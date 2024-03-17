@@ -6,7 +6,7 @@
 ------------------------------------
 - https://github.com/J0rgwUNI
 - https://github.com/farcasucam
-- https://github.com/ang-05
+- https://github.com/ang-05 Angela Rogel Gonzalez
 - https://github.com/amgv13
 - Antonio Romero
 - https://github.com/MohammadRizwan777
